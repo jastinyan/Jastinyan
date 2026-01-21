@@ -3,8 +3,7 @@
 
 <p align="center">
   🌱 Learning Web Development <br>
-  🚀 Passionate about building clean and functional websites <br>
-  🎯 Goal: Become a Professional Web Developer
+  🚀 Always curious, always improving
 </p>
 
 ---
@@ -34,25 +33,18 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🌟 What You'll Find Here
+- 📂 School & personal projects  
+- 🧪 Practice codes  
+- 📝 Web development experiments  
+---
+
+## 📫 Let's Connect
+- 💬 Open to learning, collaboration, and feedback  
+- ⭐ Feel free to explore my repositories!
+
+---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tingg5&theme=tokyonight&hide_border=false" />
+💻 *"Code. Learn. Improve. Repeat." <br>
+🌈 Thanks for visiting my profile!
 </p>
-
----
-
-## 🚀 Currently Working On
-- 📱 Responsive Web Design
-- 🧩 Backend & Database Projects
-- 🌐 Full Stack Web Applications
-
----
-
-## 🤝 Let's Connect
-- ⭐ Check out my repositories
-- 💬 Open for collaboration and learning
-- 🚀 Let’s grow together as developers!
-
----
-
-> 💡 *"Learning never stops. Code every day."*
