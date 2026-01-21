@@ -1,53 +1,58 @@
-# 👋 Hi there! I'm Justinian 👨‍💻
+<h1 align="center">Hi 👋, I'm Justinian</h1>
+<h3 align="center">💻 IT Student | Aspiring Web Developer</h3>
 
-🌱 **IT Student | Aspiring Web Developer**  
-💡 Passionate about building websites and learning new technologies  
-🚀 Always curious, always improving
-
----
-
-## 🌈 About Me
-- 🎓 Currently studying **Information Technology**
-- 💻 Interested in **Web Development**
-- 🧠 Learning step by step: from basics to advanced
-- 🎯 Goal: Become a **professional Web Developer**
+<p align="center">
+  🌱 Learning Web Development <br>
+  🚀 Passionate about building clean and functional websites <br>
+  🎯 Goal: Become a Professional Web Developer
+</p>
 
 ---
 
-## 🛠️ Tech Stack (Learning & Using)
-✨ **Frontend**
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-
-✨ **Backend & Tools**
-- 🐘 PHP
-- 🗄️ MySQL
-- 🧰 Git & GitHub
-- 💻 VS Code
+## 👨‍💻 About Me
+- 🎓 IT Student
+- 🌐 Interested in **Web Development**
+- ⚡ Currently learning **JavaScript, React & Backend Development**
+- 🤝 Open to collaboration and learning opportunities
+- 📫 Always open to feedback and suggestions
 
 ---
 
-## 📚 Currently Learning
-- 📱 Responsive Web Design  
-- 🧩 Backend logic & databases  
-- 🚀 Real-world web projects  
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,git,github,vscode" />
+</p>
 
 ---
 
-## 🌟 What You'll Find Here
-- 📂 School & personal projects  
-- 🧪 Practice codes  
-- 📝 Web development experiments  
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tingg5&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tingg5&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
-- 💬 Open to learning, collaboration, and feedback  
-- ⭐ Feel free to explore my repositories!
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tingg5&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
-> 💻 *"Code. Learn. Improve. Repeat."*  
+## 🚀 Currently Working On
+- 📱 Responsive Web Design
+- 🧩 Backend & Database Projects
+- 🌐 Full Stack Web Applications
 
-🌈 Thanks for visiting my profile!
+---
+
+## 🤝 Let's Connect
+- ⭐ Check out my repositories
+- 💬 Open for collaboration and learning
+- 🚀 Let’s grow together as developers!
+
+---
+
+> 💡 *"Learning never stops. Code every day."*
