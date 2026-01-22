@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 - 🎓 IT Student
 - 🌐 Interested in **Web Development**
 - ⚡ Currently learning **JavaScript, React & Backend Development**
@@ -19,27 +19,27 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,git,github,vscode,android studio" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tingg5&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tingg5&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jastinyan&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jastinyan&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🌟 What You'll Find Here
+##  What You'll Find Here
 - 📂 School & personal projects  
 - 🧪 Practice codes  
 - 📝 Web development experiments  
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 - 💬 Open to learning, collaboration, and feedback  
 - ⭐ Feel free to explore my repositories!
 
